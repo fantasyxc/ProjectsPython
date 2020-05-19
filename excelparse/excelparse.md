@@ -12,11 +12,10 @@ Parse excel test.
 | method | notes | 
 | --- | --- | 
 | open_workbook() | 打开指定的Excel文件，返回一个Book对象 | 
-| Book.nsheets  | notes | 
-| Book.sheets() | notes | 
-| Book.sheet_by_index(index)   | notes | 
-| Book.sheet_names()  | notes | 
-| Book.sheet_by_name(name) | notes | 
-| Book.sheets() | notes | 
+| Book.nsheets  | 返回Sheet的数目 | 
+| Book.sheets() | 返回所有Sheet对象的list | 
+| Book.sheet_by_index(index)   | 返回指定索引处的Sheet | 
+| Book.sheet_names()  | 返回所有Sheet对象名字的list | 
+| Book.sheet_by_name(name) | 根据指定Sheet对象名字返回Sheet | 
 
 ## 2. pandas
