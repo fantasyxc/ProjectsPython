@@ -9,6 +9,8 @@ Parse excel test.
 
 ## 1. xlrd
 ### 1.1. read
+ref: https://blog.csdn.net/qq_39314932/article/details/96180914
+
 | method | notes | 
 | --- | --- | 
 | open_workbook() | 打开指定的Excel文件，返回一个Book对象 | 
