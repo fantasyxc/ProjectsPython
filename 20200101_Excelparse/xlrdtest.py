@@ -21,7 +21,7 @@ def readexcel1():
         print("sheet name is: ", each_sheet_by_index.name)
 
 def readexcel2():
-    excel_path = "demo.xlsx"
+    excel_path = "D:/Develop/ProjectsPython/20200101_Excelparse/demo.xlsx"
     excel = xlrd.open_workbook(excel_path, encoding_override="utf-8")
 
     print("sheet number is: {0}".format(excel.nsheets))
