@@ -1,8 +1,10 @@
 # PythonProjects
 Projects in python. 个人Python项目。
 
-## Movie
-Fetch movie by scrapy.
+## 20190101_Movie
+> Fetch movie by scrapy.
 
-## excelParse
-处理Excel的项目
+## 20200101_excelParse
+> Parse excel
+1. xlrd
+2. pandas
