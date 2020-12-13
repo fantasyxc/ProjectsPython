@@ -8,3 +8,5 @@ Projects in python. 个人Python项目。
 > Parse excel
 1. xlrd
 2. pandas
+
+## 20201213_bestpractices
